@@ -1,2 +1,2 @@
 # webpack-boilerplate
-A boilerplate for JavaScript implementing webpack 
+A boilerplate for a webpack-based projects
